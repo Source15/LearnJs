@@ -1,3 +1,3 @@
 document.getElementById('github').onclick = function () {
-   console.log('Изучи git и github');
+   alert('Изучи git и github');
 };
